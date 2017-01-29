@@ -1,5 +1,4 @@
 import urllib.request
-import sys
 import progressbar
 
 OUI_URL = "http://standards.ieee.org/develop/regauth/oui/oui.txt"
